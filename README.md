@@ -31,9 +31,9 @@ $ ssh-add ~/.ssh/id_ed25519
 
 1. Display the just recently added key 
 
-´´´
+```
 $ cat ~/.ssh/id_ed25519.pub
-´´´
+```
 Then select and copy the contents of the id_ed25519.pub file displayed in the terminal to your clipboard
 
 2. add key to GitHub account
