@@ -38,4 +38,4 @@ Then select and copy the contents of the id_ed25519.pub file displayed in the te
 
 2. add key to GitHub account
 
-**more info: [github-docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#about-addition-of-ssh-keys-to-your-account)
+**for more info: [github-docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#about-addition-of-ssh-keys-to-your-account)
